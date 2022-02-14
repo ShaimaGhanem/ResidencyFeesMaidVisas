@@ -216,7 +216,7 @@ public class SOAPClientSAAJ {
         SOAPElement soapBodyElem15 = soapBodyElem11.addChildElement("descriptionEn");
         soapBodyElem15.addTextNode("Domestic Workers Fees");
         SOAPElement soapBodyElem16 = soapBodyElem11.addChildElement("descriptionAr");
-        soapBodyElem16.addTextNode("سوم العمالة المنزلية");
+        soapBodyElem16.addTextNode("رسوم العمالة المنزلية");
         SOAPElement soapBodyElem17 = soapBodyElem11.addChildElement("field1");
         soapBodyElem17.addTextNode(requestDataArray[1].getValue());
         SOAPElement soapBodyElem18 = soapBodyElem11.addChildElement("field2");

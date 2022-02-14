@@ -272,19 +272,19 @@ public class ResidencyFeesMaidVisas extends HttpServlet {
                                 oResTrue.setMessage("تم  تحصيل الرسوم\nاسم المقيم  : " + personName[1]);
                                 oResTrue.setMessageEn("Fees Collected \n Resident Name: " + personName[0]);
                                 oResTrue.setAlertType("Success");
-                                TrueResult temp = new TrueResult();
-                                temp.setStepNo(3);
-                                oResTrue.setResult(temp);
+                                //TrueResult temp = new TrueResult();
+                               // temp.setStepNo(3);
+                                oResTrue.setResult(null);
                             } else {//payment failed
                                 oResTrue.setIsSuccess(true);
                                 //oResTrue.setMessage("نظرا لحدوث خطأ أثناء عملية الدفع\nيرجى معاودة المحاولة من جديد");
                                 // oResTrue.setMessage("يرجى معاودة المحاولة من جديد نظرالحدوث خطأ في عملية الدفع" );
                                oResTrue.setMessage("لم يتم تنفيذ الخدمة\nنظرا لحدوث خطأ أثناء عملية الدفع\nيرجى معاودة المحاولة من جديد");
                                  oResTrue.setMessageEn("We could not complete the service\n Due to an error occured during the payment process\nPlease try again");
-                                oResTrue.setAlertType("Danger");
-                             TrueResult temp = new TrueResult();
-                             temp.setStepNo(3);
-                                oResTrue.setResult(temp);
+                                oResTrue.setAlertType("Error");
+                            // TrueResult temp = new TrueResult();
+                             //temp.setStepNo(3);
+                                oResTrue.setResult(null);
                             }
 
                             response.setContentType("application/json");
