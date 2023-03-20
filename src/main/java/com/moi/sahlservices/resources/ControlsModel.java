@@ -12,12 +12,27 @@ import java.util.List;
  * @author MOI
  */
 public class ControlsModel {
+
+    /**
+     * @return the isDisabled
+     */
+    public boolean isIsDisabled() {
+        return isDisabled;
+    }
+
+    /**
+     * @param isDisabled the isDisabled to set
+     */
+    public void setIsDisabled(boolean isDisabled) {
+        this.isDisabled = isDisabled;
+    }
    
     private String id="";
     private String type = "";
     private String labelAr = "";
     private String labelEn = "";
     private boolean isRequired = true;
+     private boolean isDisabled = false;
     private List<OptionControlModel> optionControlModels = null;
     private String defaultValue = "";
 

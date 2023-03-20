@@ -1,0 +1,8 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      2    6/19/22 13:30:58:528 AST    6/19/22 13:32:29:544 AST java.lang.NullPointerException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - C:\Users\MOI\DeportationFineServices\target\liberty\wlp\usr\servers\defaultServer\logs\ffdc\ffdc_22.06.19_13.30.58.0.log
+     1      1    6/19/22 13:32:29:478 AST    6/19/22 13:32:29:478 AST sun.security.validator.ValidatorException com.ibm.ws.ssl.core.WSX509TrustManager checkServerTrusted
+                                                                            - C:\Users\MOI\DeportationFineServices\target\liberty\wlp\usr\servers\defaultServer\logs\ffdc\ffdc_22.06.19_13.32.29.0.log
+------+------+---------------------------+---------------------------+---------------------------

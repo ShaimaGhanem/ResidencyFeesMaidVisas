@@ -1,0 +1,68 @@
+[
+ {
+  "Key": "ip",
+  "Value": "http://10.10.2.1"
+ },
+ {
+  "Key": "port",
+  "Value": "7805"
+ },{
+  "Key": "personDisplayIp",
+  "Value": "http://10.10.2.1"
+ },
+ {
+  "Key": "personDisplayPort",
+  "Value": "29084"
+ },
+
+ {
+  "Key": "paymentIp",
+  "Value": "https://gservices.moi.gov.kw"
+ },
+ {
+  "Key": "initPaymentPort",
+  "Value": "45299"
+ },
+ {
+  "Key": "checkPaymentPort",
+  "Value": "45302"
+ },
+ {
+  "Key": "checkPaymentExtraPart",
+  "Value": "SahelPayViewProd"
+ },
+
+ {
+  "Key": "initpaymentUsername",
+  "Value": "MOISAHELPRODWSUser"
+ },
+ {
+  "Key": "initpaymentPassword",
+  "Value": "Xx8fnbp308hz3uWVPLc5bjwSRYM="
+ },
+ {
+  "Key": "initpaymentToken",
+  "Value": "UsernameToken-395764DD8FCFF4722F16544265442631"
+ },
+ {
+  "Key": "initpaymentNonce",
+  "Value": "jY2bKMCrlMBqAkd0MWqb9Q=="
+ },
+
+ {
+  "Key": "checkpaymentUsername",
+  "Value": "MOIPACIPRODWSUser"
+ },
+ {
+  "Key": "checkpaymentPassword",
+  "Value": "vK9tT6FIv7PrQxPUi5WJ2MdRFt0="
+ },
+ {
+  "Key": "checkpaymentToken",
+  "Value": "UsernameToken-395764DD8FCFF4722F16544269361012"
+ },
+ {
+  "Key": "checkpaymentNonce",
+  "Value": "XPSphmV5dv3BV727mx/L9Q=="
+ }
+]

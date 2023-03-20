@@ -1,0 +1,22 @@
+#Wed Jun 08 09:34:47 AST 2022
+lib/com.ibm.ws.webserver.plugin.utility_1.0.65.jar=6b33e88d0bb2a98cc80562ec00139b50
+lib/com.ibm.ws.http.plugin.merge_1.0.65.jar=21a3749e2e3f869e01245d3afdbb4f18
+bin/tools/ws-webserverPluginutil.jar=945ee0761d761556dc747b7aff2ec79e
+lib/com.ibm.ws.app.manager.war.jakarta_1.0.65.jar=be0b25e3ecc416107199f85c903c2558
+lib/com.ibm.ws.webcontainer.jakarta_1.1.65.jar=49025ebb262f4e6ffba616994375fc58
+lib/features/com.ibm.websphere.appserver.servlet-5.0.mf=2661ae0d34187f3a289e68a52abd1d0a
+lib/com.ibm.ws.webcontainer.servlet.3.1.jakarta_1.0.65.jar=07701a16e15b32e3208cba503c258c3f
+lib/com.ibm.ws.webserver.plugin.runtime.jakarta_1.0.65.jar=340a4601582212a0852ff1c0907f43d9
+lib/com.ibm.ws.session.jakarta_1.0.65.jar=cbb74fed2ec3e6ee3a36bdd17d3a8dc3
+lib/com.ibm.websphere.security_1.1.65.jar=b83e044f2793328e5354794e4c6516ba
+dev/api/ibm/javadoc/io.openliberty.servlet_1.1-javadoc.zip=23944a7784ab3ce90e3c3e607947c463
+lib/com.ibm.ws.managedobject_1.0.65.jar=fe010206f0de6629398f01ffdb189a72
+dev/api/ibm/io.openliberty.servlet_1.1.65.jar=1c059d509cb93299fd89a1bc55f1fd52
+lib/com.ibm.ws.webcontainer.cors.jakarta_1.0.65.jar=88e64a455ae3598ee85f32ea7ec5977e
+lib/com.ibm.ws.org.apache.commons.io_1.0.65.jar=17b4b9473d676c685560ad20c810094f
+lib/com.ibm.ws.org.apache.commons.fileupload.jakarta_1.0.65.jar=574b97170793d14a417dfec479249191
+bin/pluginUtility.bat=c456259c61849720c0b61e3934a03207
+lib/com.ibm.ws.webserver.plugin.runtime.interfaces_1.0.65.jar=2505695290a1897bfe8f706fece491da
+lib/com.ibm.ws.webcontainer.servlet.4.0.jakarta_1.0.65.jar=163d57299b3c97e598324564232689c0
+bin/pluginUtility=c88b7d31fb0e2890669fc889792cf684
+lib/com.ibm.ws.webcontainer.servlet.4.0.factories.jakarta_1.0.65.jar=265eeed0892045689f5e1e09f1bafc88

@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      3    6/19/22 13:25:22:626 AST    6/19/22 13:30:01:605 AST java.lang.NullPointerException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - C:\Users\MOI\DeportationFineServices\target\liberty\wlp\usr\servers\defaultServer\logs\ffdc\ffdc_22.06.19_13.25.22.0.log
+------+------+---------------------------+---------------------------+---------------------------
